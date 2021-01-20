@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspWepMchsYandexMap", "AspWepMchsYandexMap.csproj", "{12B30908-C2CF-4DA0-9912-8DEDCE1AF482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12B30908-C2CF-4DA0-9912-8DEDCE1AF482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B30908-C2CF-4DA0-9912-8DEDCE1AF482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B30908-C2CF-4DA0-9912-8DEDCE1AF482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B30908-C2CF-4DA0-9912-8DEDCE1AF482}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {250C722F-E3FE-4901-9A3D-780B9D3DE88F}
+	EndGlobalSection
+EndGlobal
